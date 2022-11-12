@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 import math
 
-import model
+#import model
 pipe = pickle.load(open('pipe.pkl','rb'))
 df = pickle.load(open('df.pkl','rb'))
 
